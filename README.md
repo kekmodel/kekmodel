@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi!+I'm+Jungdae+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi!+I'm+JD+👋)](https://git.io/typing-svg)
 
 ![Visitors](https://komarev.com/ghpvc/?username=kekmodel&color=blue)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kekmodel&theme=react)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kekmodel&theme=github_dark)
 
