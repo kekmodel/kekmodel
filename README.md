@@ -1,1 +1,1 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kekmodel&theme=react)
+![](https://streak-stats.demolab.com/?user=kekmodel&theme=react)
