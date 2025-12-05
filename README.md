@@ -1,1 +1,1 @@
-![](https://streak-stats.demolab.com/?user=kekmodel&theme=react)
+![](https://github-profile-trophy.vercel.app/?username=kekmodel&theme=onedark)
