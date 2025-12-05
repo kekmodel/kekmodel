@@ -1,1 +1,1 @@
-![](https://github-profile-trophy.vercel.app/?username=kekmodel&theme=onedark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=kekmodel&theme=react-dark)
