@@ -1,1 +1,1 @@
-![](https://github-readme-activity-graph.vercel.app/graph?username=kekmodel&theme=react-dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=kekmodel&theme=onedark&row=1)
