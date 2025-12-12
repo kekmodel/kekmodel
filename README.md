@@ -1,3 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi!+I'm+JD+👋)](https://git.io/typing-svg)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kekmodel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kekmodel&show_icons=true&theme=onedark&include_all_commits=true&count)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kekmodel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
